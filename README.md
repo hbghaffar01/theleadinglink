@@ -1,3 +1,3 @@
 # My portfolio
 
-This site is only for portfolio purpose.
+This site is only for demo purpose.
